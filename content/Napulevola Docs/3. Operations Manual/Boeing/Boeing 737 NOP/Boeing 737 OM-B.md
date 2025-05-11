@@ -101,8 +101,8 @@ good CRM practice.
 > A full IRS alignment is recommended before each flight. If time does not allow a full alignment, do the Fast Realignment supplementary procedure.
 
 **IRS mode selectors ............................................................................................................... OFF, then NAV**
-	`Verify that the ON DC lights illuminate then extinguish.
-	`Verify that the ALIGN lights are illuminated. 
+	`Verify that the ON DC lights illuminate then extinguish.`
+	`Verify that the ALIGN lights are illuminated.`
 		
 	
 > [!WARNING] The UNABLE REQD NAV PERF-RNP message may show until IRS alignment is complete.
@@ -112,10 +112,10 @@ good CRM practice.
 **FLIGHT DECK ACCESS SYSTEM switch................................................................................ Guard closed**
 
 **Emergency equipment......................................................................................................................... Check**
-	`Fire extinguisher – Checked and stowed
-	`Crash axe – Stowed
-	`Escape ropes – Stowed
-	`Other needed equipment – Checked and stowed
+	`Fire extinguisher – Checked and stowed`
+	`Crash axe – Stowed`
+	`Escape ropes – Stowed`
+	`Other needed equipment – Checked and stowed`
 
 **PSEU light....................................................................................................................... Verify extinguished**
 
@@ -124,16 +124,16 @@ good CRM practice.
 **SERVICE INTERPHONE switch................................................................................................................ OFF**
 
 **ENGINE panel.............................................................................................................................................. Set**
-	`Verify that the REVERSER lights are extinguished.
-	`Verify that the ENGINE CONTROL lights are extinguished.
-	`EEC switches – ON
+	`Verify that the REVERSER lights are extinguished.`
+	`Verify that the ENGINE CONTROL lights are extinguished.`
+	`EEC switches – ON`
 
 **Oxygen panel............................................................................................................................................... Set**
 
 > [!NOTE] PASSENGER OXYGEN switch activation causes deployment of the passenger oxygen masks.
 
 **PASSENGER OXYGEN switch................................................................................................. Guard closed**
-	`Verify that the PASS OXY ON light is extinguished.
+	`Verify that the PASS OXY ON light is extinguished.`
 
 **MACH AIRSPEED WARNING TEST switches........................................................... Push, one at a time**
 	`Verify that the clacker sounds.`
@@ -157,40 +157,44 @@ The Performance Data entries must be complete before the Before Start Checklist.
 
 **Initial Data.................................................................................................................................................... Set**
 - IDENT page:
-		`Verify that the MODEL is correct.
-		`Verify that the ENG RATING is correct.
-		`Verify that the navigation data base ACTIVE date range is current.
+		`Verify that the MODEL is correct.`
+		`Verify that the ENG RATING is correct.`
+		`Verify that the navigation data base ACTIVE date range is current.`
 		
 - POS INIT page:
-		`Verify that the time is correct.
-		`Enter the present position on the SET IRS POS line. Use the most accurate latitude and longitude.
+		`Verify that the time is correct.`
+		`Enter the present position on the SET IRS POS line. Use the most accurate latitude and longitude.`
 
 > [!caution]
 > During turnaround within an area of suspected or forecasted GPS SPOOFING events, perform a full IRS ALIGN Procedure and MANUALLY INSERT POS COORDINATES of relevant STAND/GATE POSITION (check PARK CHART on Navigraph, Lido or Similar available charts)
 
 **Navigation Data.......................................................................................................................................... Set**
 - ROUTE page:
-		`Enter the ORIGIN.
-		`Enter the route.
-		`Enter the FLIGHT NUMBER.
-		`Activate and execute the route.
+		`Enter the ORIGIN.`
+		`Enter the route.`
+		`Enter the FLIGHT NUMBER.`
+		`Activate and execute the route.`
 
 - DEPARTURES page:
-		`Select the runway and departure routing.
-		`Execute the runway and departure routing.
+		`Select the runway and departure routing.`
+		`Execute the runway and departure routing.`
 
 - LEGS page:
-		`Verify the correct RNP for the departure as needed.
-		`Verify that the route is correct on the RTE pages. Check the LEGS pages as needed to ensure compliance with the flight plan.
+		`Verify the correct RNP for the departure as needed.`
+		`Verify that the route is correct on the RTE pages. 
+		`Check the LEGS pages as needed to ensure compliance with the flight plan.`
 	
 **Performance Data....................................................................................................................................... Set**
 
 - PERF INIT page: 
 	Enter the ZFW.
-		Verify that the FUEL on the CDU, the dispatch papers, and the fuel quantity indicators agree.
-		`If refueling is not complete, enter the PLAN trip fuel as needed.
-		`Verify that the fuel is sufficient for flight.
-		Verify that the gross weight and cruise CG (GW/CRZ CG) on the CDU and the dispatch papers agree.
+		`Verify that the FUEL on the CDU, the dispatch papers, and the fuel quantity indicators agree.`
+		
+> [!note]
+> If refueling is not complete, enter the PLAN trip fuel as needed.
+
+		`Verify that the fuel is sufficient for flight.`
+		`Verify that the gross weight and cruise CG (GW/CRZ CG) on the CDU and the dispatch papers agree.`
 	
 - N1 LIMIT page:
 		`Enter or verify OAT. Confirm the OAT value is correct and reasonable for the ambient conditions.`
@@ -219,23 +223,23 @@ The Performance Data entries must be complete before the Before Start Checklist.
 **Flight control panel ............................................................................................................................. Check**
 
 **FLIGHT CONTROL switches.................................................................................................. Guards closed**
-	`Verify that the flight control LOW PRESSURE lights are illuminated.
+	`Verify that the flight control LOW PRESSURE lights are illuminated.`
 	
 **Flight SPOILER switches........................................................................................................ Guards closed**
 
 **YAW DAMPER switch................................................................................................................................. ON**
-	`Verify that the YAW DAMPER light is extinguished.
-	`Verify that the standby hydraulic LOW QUANTITY light is extinguished.
-	`Verify that the standby hydraulic LOW PRESSURE light is extinguished.
-	`Verify that the STBY RUD ON light is extinguished.
+	`Verify that the YAW DAMPER light is extinguished.`
+	`Verify that the standby hydraulic LOW QUANTITY light is extinguished.`
+	`Verify that the standby hydraulic LOW PRESSURE light is extinguished.`
+	`Verify that the STBY RUD ON light is extinguished.`
 	
 **ALTERNATE FLAPS master switch......................................................................................... Guard closed**
 
 **ALTERNATE FLAPS position switch........................................................................................................ OFF**
-	`Verify that the FEEL DIFF PRESS light is extinguished.
-	`Verify that the SPEED TRIM FAIL light is extinguished.
-	`Verify that the MACH TRIM FAIL light is extinguished.
-	`Verify that the AUTO SLAT FAIL light is extinguished.
+	`Verify that the FEEL DIFF PRESS light is extinguished.`
+	`Verify that the SPEED TRIM FAIL light is extinguished.`
+	`Verify that the MACH TRIM FAIL light is extinguished.`
+	`Verify that the AUTO SLAT FAIL light is extinguished.`
 	
 **NAVIGATION panel ................................................................................................................................... Set**
 
@@ -252,9 +256,9 @@ The Performance Data entries must be complete before the Before Start Checklist.
 **CONTROL PANEL select switch.................................................................................................... NORMAL**
 
 **Fuel panel .................................................................................................................................................... Set**
-	`Verify that the ENG VALVE CLOSED lights are illuminated dim.
-	`Verify that the SPAR VALVE CLOSED lights are illuminated dim.
-	`Verify that the FILTER BYPASS lights are extinguished.
+	`Verify that the ENG VALVE CLOSED lights are illuminated dim.`
+	`Verify that the SPAR VALVE CLOSED lights are illuminated dim.`
+	`Verify that the FILTER BYPASS lights are extinguished.`
 	
 **CROSSFEED selector............................................................................................................................ Closed**
 	`Verify that the VALVE OPEN light is extinguished.`
@@ -340,26 +344,26 @@ The Performance Data entries must be complete before the Before Start Checklist.
 > Run the APU for two full minutes before using it as a bleed air source.
 
 **EQUIPMENT COOLING switches ..................................................................................................... NORM**
-		`Verify that the OFF lights are extinguished.
+		`Verify that the OFF lights are extinguished.`
 
 **EMERGENCY EXIT LIGHTS switch ........................................................................................ Guard closed**
-		`Verify that the NOT ARMED light is extinguished.
+		`Verify that the NOT ARMED light is extinguished.`
 
 **Passenger signs .......................................................................................................................................... Set**
 
 **Windshield WIPER selectors................................................................................................................ PARK**
-		`Verify that the windshield wipers are stowed.
+		`Verify that the windshield wipers are stowed.`
 
 **WINDOW HEAT switches ........................................................................................................................ ON**
-		`Position switches ON at least 10 minutes before takeoff.
-		`Verify that the OVERHEAT lights are extinguished.
-		`Verify that the ON lights are illuminated (except at high ambient temperatures.)
+		`Position switches ON at least 10 minutes before takeoff.`
+		`Verify that the OVERHEAT lights are extinguished.`
+		`Verify that the ON lights are illuminated (except at high ambient temperatures.)`
 
 **PROBE HEAT switches .......................................................................................................................... AUTO**
-		`Verify that all lights are illuminated.
+		`Verify that all lights are illuminated.`
 
 **WING ANTI–ICE switch ........................................................................................................................... OFF**
-		`Verify that the VALVE OPEN lights are extinguished.
+		`Verify that the VALVE OPEN lights are extinguished.`
 
 **ENGINE ANTI–ICE switches .................................................................................................................... OFF**
 		`Verify that the COWL ANTI–ICE lights are extinguished.`
@@ -371,18 +375,18 @@ The Performance Data entries must be complete before the Before Start Checklist.
 	`Verify that the LOW PRESSURE lights are illuminated.`
 
 **ELECTRIC HYDRAULIC PUMPS switches.............................................................................................. OFF**
-	`Verify that the OVERHEAT lights are extinguished.
-	`Verify that the LOW PRESSURE lights are illuminated.
+	`Verify that the OVERHEAT lights are extinguished.`
+	`Verify that the LOW PRESSURE lights are illuminated.`
 
 **Air conditioning panel .............................................................................................................................. Set**
 
 **AIR TEMPERATURE source selector – As needed**
 
 **TRIM AIR switch – ON**
-	`Verify that the ZONE TEMP lights are extinguished.
+	`Verify that the ZONE TEMP lights are extinguished.`
 
 **Temperature selectors.................................................................................................................. As needed**
-	`Verify that the RAM DOOR FULL OPEN lights are illuminated.
+	`Verify that the RAM DOOR FULL OPEN lights are illuminated.`
 
 **RECIRC FAN switches............................................................................................................................. AUTO**
 
@@ -394,35 +398,70 @@ The Performance Data entries must be complete before the Before Start Checklist.
 
 **APU BLEED air switch................................................................................................................................. ON**
 	`Verify that the DUAL BLEED light is illuminated.
-	Verify that the PACK lights are extinguished.
-	Verify that the WING–BODY OVERHEAT lights are extinguished.
-	Verify that the BLEED TRIP OFF lights are extinguished.
+	`Verify that the PACK lights are extinguished.`
+	`Verify that the WING–BODY OVERHEAT lights are extinguished.`
+	`Verify that the BLEED TRIP OFF lights are extinguished.`
 
 **Cabin pressurization panel ......................................................................................................................... Set**
-	`Verify that the AUTO FAIL light is extinguished.
-	Verify that the OFF SCHED DESCENT light is extinguished.
+	`Verify that the AUTO FAIL light is extinguished.`
+	`Verify that the OFF SCHED DESCENT light is extinguished.`
 
 **FLIGHT ALTITUDE indicator.................................................................................................................... Cruise altitude**
 
 **LANDING ALTITUDE indicator........................................................................... Destination field elevation**
 
 **Pressurization mode selector................................................................................................................... AUTO**
-	`Verify that the ALTN light is extinguished.
-	`Verify that the MANUAL light is extinguished.
+	`Verify that the ALTN light is extinguished.`
+	`Verify that the MANUAL light is extinguished.`
 
 **Lighting panel .................................................................................................................................................. Set**
-	`LANDING light switches - OFF
-	`RUNWAY TURNOFF light switches – OFF
-	`TAXI light switch – OFF
+	`LANDING light switches - OFF`
+	`RUNWAY TURNOFF light switches – OFF`
+	`TAXI light switch – OFF`
 
 **Ignition select switch ........................................................................................................................ IGN L or R**
-	`Alternate the ignition select switch position on subsequent starts.
+	`Alternate the ignition select switch position on subsequent starts.`
 
 **ENGINE START switches ............................................................................................................................... OFF**
 
 **Lighting panel .................................................................................................................................................. Set**
-	`LOGO light switch – As needed
-	`POSITION light switch – As needed
-	`ANTI–COLLISION light switch – OFF
-	`WING illumination switch – As needed
-	`WHEEL WELL light switch – As needed
+	`LOGO light switch – As needed`
+	`POSITION light switch – As needed`
+	`ANTI–COLLISION light switch – OFF`
+	`WING illumination switch – As needed`
+	`WHEEL WELL light switch – As needed`
+
+**Mode control panel ....................................................................................................................................... Set**
+	`COURSE(S) – Set`
+	`FLIGHT DIRECTOR switch – ON`
+		`Move the switch for the pilot flying to ON first.`
+	
+**EFIS control panel ........................................................................................................................................... Set**
+	`MINIMUMS reference selector – RADIO or BARO`
+	`MINIMUMS selector – Set decision height or altitude reference`
+	`FLIGHT PATH VECTOR switch – As needed`
+	`METERS switch – As needed`
+	`BAROMETRIC reference selector – IN or HPA`
+	`BAROMETRIC selector – Set local altimeter setting`
+	`VOR/ADF switches – As needed`
+	`Mode selector – MAP`
+	`CENTER switch – As needed`
+	`Range selector – As needed`
+	`TRAFFIC switch – As needed`
+	`WEATHER RADAR – Off`
+	`Map switches – As needed`
+
+> [!caution]
+> Verify that the weather radar indications are not shown on the MAP.
+
+**Clock .............................................................................................................................................................. Set**
+	`TIME/DATE pushbutton - UTC time`
+	`Verify the date and time are correct.`
+
+**Display select panel.................................................................................................................................... Set**
+	`MAIN PANEL DISPLAY UNITS selector – NORM`
+	`LOWER DISPLAY UNIT selector – NORM`
+	
+**TAKEOFF CONFIG light (if installed and operative) ............................................... Verify extinguished**
+
+**CABIN ALTITUDE light (if installed and operative) .............................................. Verify extinguished**
