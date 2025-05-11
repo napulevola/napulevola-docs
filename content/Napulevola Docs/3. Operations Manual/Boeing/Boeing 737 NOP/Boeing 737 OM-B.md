@@ -263,7 +263,7 @@ The Performance Data entries must be complete before the Before Start Checklist.
 	`Verify that the center tank fuel pump LOW PRESSURE lights are extinguished.`
 	`Verify that the main tank fuel pump LOW PRESSURE lights are illuminated.`
 
-**Electrical panel .................................................................................... Set**
+**Electrical panel ........................................................................................................................................... Set**
 	`BATTERY switch – Guard closed`
 	`CAB/UTIL power switch – ON`
 	`IFE/PASS SEAT power switch – ON`
@@ -279,7 +279,7 @@ The Performance Data entries must be complete before the Before Start Checklist.
 		`Verify that the SOURCE OFF lights are extinguished.`
 		`Verify that the GEN OFF BUS lights are illuminated.`
 
-**Overheat and fire protection panel ................................................ Check**
+**Overheat and fire protection panel ................................................................................................. Check**
 		`Do this check if the flight crew did not do the Electrical Power Up supplementary procedure. This check is needed once per flight day.`
 			`Verify that the engine No. 1, APU, and engine No. 2 fire switches are in.` 
 
@@ -339,88 +339,88 @@ The Performance Data entries must be complete before the Before Start Checklist.
 > [!caution]
 > Run the APU for two full minutes before using it as a bleed air source.
 
-**EQUIPMENT COOLING switches .............................................NORM**
+**EQUIPMENT COOLING switches ..................................................................................................... NORM**
 		`Verify that the OFF lights are extinguished.
 
-**EMERGENCY EXIT LIGHTS switch ................................Guard closed**
+**EMERGENCY EXIT LIGHTS switch ........................................................................................ Guard closed**
 		`Verify that the NOT ARMED light is extinguished.
 
-**Passenger signs ....................................................................................Set**
+**Passenger signs .......................................................................................................................................... Set**
 
-**Windshield WIPER selectors......................................................... PARK**
+**Windshield WIPER selectors................................................................................................................ PARK**
 		`Verify that the windshield wipers are stowed.
 
-**WINDOW HEAT switches .................................................................ON**
+**WINDOW HEAT switches ........................................................................................................................ ON**
 		`Position switches ON at least 10 minutes before takeoff.
 		`Verify that the OVERHEAT lights are extinguished.
 		`Verify that the ON lights are illuminated (except at high ambient temperatures.)
 
-**PROBE HEAT switches ................................................................AUTO**
+**PROBE HEAT switches .......................................................................................................................... AUTO**
 		`Verify that all lights are illuminated.
 
-**WING ANTI–ICE switch ................................................................. OFF**
+**WING ANTI–ICE switch ........................................................................................................................... OFF**
 		`Verify that the VALVE OPEN lights are extinguished.
 
-**ENGINE ANTI–ICE switches .......................................................... OFF**
+**ENGINE ANTI–ICE switches .................................................................................................................... OFF**
 		`Verify that the COWL ANTI–ICE lights are extinguished.`
 		`Verify that the COWL VALVE OPEN lights are extinguished.`
 
-**Hydraulic panel ................................................................................... Set**
+**Hydraulic panel .......................................................................................................................................... Set**
 
-**ENGINE HYDRAULIC PUMPS switches................................................. ON**
+**ENGINE HYDRAULIC PUMPS switches.................................................................................................. ON**
 	`Verify that the LOW PRESSURE lights are illuminated.`
 
-**ELECTRIC HYDRAULIC PUMPS switches.......................................... OFF**
+**ELECTRIC HYDRAULIC PUMPS switches.............................................................................................. OFF**
 	`Verify that the OVERHEAT lights are extinguished.
 	`Verify that the LOW PRESSURE lights are illuminated.
 
-**Air conditioning panel ........................................................................ Set**
+**Air conditioning panel .............................................................................................................................. Set**
 
 **AIR TEMPERATURE source selector – As needed**
 
 **TRIM AIR switch – ON**
 	`Verify that the ZONE TEMP lights are extinguished.
 
-**Temperature selectors............................................................. As needed**
+**Temperature selectors.................................................................................................................. As needed**
 	`Verify that the RAM DOOR FULL OPEN lights are illuminated.
 
-**RECIRC FAN switches............................................................... AUTO**
+**RECIRC FAN switches............................................................................................................................. AUTO**
 
-**Air conditioning PACK switches................................. AUTO or HIGH**
+**Air conditioning PACK switches......................................................................................... AUTO or HIGH**
 
-**ISOLATION VALVE switch....................................................... OPEN**
+**ISOLATION VALVE switch..................................................................................................................... OPEN**
 
-**Engine BLEED air switches.................................................... ON**
+**Engine BLEED air switches........................................................................................................................ ON**
 
-**APU BLEED air switch.......................................................... ON**
+**APU BLEED air switch................................................................................................................................. ON**
 	`Verify that the DUAL BLEED light is illuminated.
 	Verify that the PACK lights are extinguished.
 	Verify that the WING–BODY OVERHEAT lights are extinguished.
 	Verify that the BLEED TRIP OFF lights are extinguished.
 
-**Cabin pressurization panel .................................................................. Set**
+**Cabin pressurization panel ......................................................................................................................... Set**
 	`Verify that the AUTO FAIL light is extinguished.
 	Verify that the OFF SCHED DESCENT light is extinguished.
 
-**FLIGHT ALTITUDE indicator........................................... Cruise altitude**
+**FLIGHT ALTITUDE indicator.................................................................................................................... Cruise altitude**
 
-**LANDING ALTITUDE indicator................................... Destination field elevation**
+**LANDING ALTITUDE indicator........................................................................... Destination field elevation**
 
-**Pressurization mode selector............................................................. AUTO**
+**Pressurization mode selector................................................................................................................... AUTO**
 	`Verify that the ALTN light is extinguished.
 	`Verify that the MANUAL light is extinguished.
 
-**Lighting panel ..................................................................................... Set**
+**Lighting panel .................................................................................................................................................. Set**
 	`LANDING light switches - OFF
 	`RUNWAY TURNOFF light switches – OFF
 	`TAXI light switch – OFF
 
-**Ignition select switch ............................................................. IGN L or R**
+**Ignition select switch ........................................................................................................................ IGN L or R**
 	`Alternate the ignition select switch position on subsequent starts.
 
-**ENGINE START switches ............................................................... OFF**
+**ENGINE START switches ............................................................................................................................... OFF**
 
-**Lighting panel ......................................................................................Set**
+**Lighting panel .................................................................................................................................................. Set**
 	`LOGO light switch – As needed
 	`POSITION light switch – As needed
 	`ANTI–COLLISION light switch – OFF
