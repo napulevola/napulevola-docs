@@ -9,6 +9,7 @@ Normal Procedures describe actions which are necessary for routine airplane oper
 		- They are required to operate the airplane safely in the related phase of flight.
 		- To prepare the airplane for the following phase of flight.
     They should be performed by the assigned crew member, to ensure coordinated and safe operation.
+Napulevola have designed this Operational Manual taking in consideration that on Flight Simulators such as Microsoft Flight Simulator 2020/2024 and/or Xplane 11/12, the Pilot will manage the Aircraft as a Single Pilot. All procedures are designed with a specific flow that permits Napulevola's Pilots to conduct safely and in a correct way the specific Aircraft.
 
 ### Normal Procedures
 **Normal procedures are usually performed by recall (memory), with the exception of less frequently used procedures, wherein reference to the FCOM is recommended.
@@ -464,4 +465,371 @@ The Performance Data entries must be complete before the Before Start Checklist.
 	
 **TAKEOFF CONFIG light (if installed and operative) ............................................... Verify extinguished**
 
-**CABIN ALTITUDE light (if installed and operative) .............................................. Verify extinguished**
+**CABIN ALTITUDE light (if installed and operative) ................................................. Verify extinguished**
+
+
+> [!caution]
+> Do the Initial Data and Navigation Data steps from the CDU Preflight Procedure and verify that the IRS alignment is complete before checking the flight instruments.
+
+**Flight instruments .......................................................................... Check**
+	`Verify that the flight instrument indications are correct.`
+	`Verify that only these flags are shown:`
+		• `TCAS OFF`
+		• `NO VSPD until V–speeds are selected`
+	`Verify that the flight mode annunciations are correct:`
+	`	• autothrottle mode is blank`
+	`	• roll mode is blank`
+	`	• pitch mode is blank`
+	`	• AFDS status is FD.`
+	`Select the map mode.`
+
+**GROUND PROXIMITY panel ..................................................... Check**
+	`FLAP INHIBIT switch – Guard closed`
+	`GEAR INHIBIT switch – Guard closed`
+	`TERRAIN INHIBIT switch – Guard closed`
+	`Verify that the GROUND PROXIMITY INOP light is extinguished.`
+
+**Landing gear panel ..............................................................................Set**
+	`LANDING GEAR lever – DN`
+		`Verify that the green landing gear indicator lights are illuminated.`
+		`Verify that the red landing gear indicator lights are extinguished.`
+
+**AUTO BRAKE select switch ........................................................... RTO**
+	`Verify that the AUTO BRAKE DISARM light is extinguished`
+
+**ANTISKID INOP light ............................................. Verify extinguished**
+
+**Engine display control panel ............................................................... Set**
+	`N1 SET selector – AUTO`
+	`SPEED REFERENCE selector – AUTO`
+	`FUEL FLOW switch – RATE`
+	`Move switch to RESET, then RATE.`
+
+**Engine instruments .........................................................................Check**
+	`Verify that the primary and secondary engine indications show existing conditions.`
+	`Verify that no exceedance is shown.`
+	`Verify that the hydraulic quantity indications do not show RF.`
+
+**SPEED BRAKE lever .......................................................DOWN detent**
+	`Verify that the SPEED BRAKE ARMED light is extinguished.`
+	`Verify that the SPEED BRAKE DO NOT ARM light is extinguished.`
+	`Verify that the SPEEDBRAKES EXTENDED light is extinguished.`
+
+**Engine Thrust Levers .....................................................................Closed**
+
+**FLAP lever...........................................................................................Set**
+	`Set the flap lever to agree with the flap position.`
+
+**Parking brake .......................................................................................Set**
+	`Verify that the parking brake warning light is illuminated`
+
+**Engine start levers .................................................................... CUTOFF**
+
+**STABILIZER TRIM cutout switches ..................................... NORMAL**
+
+**Radio tuning panel .............................................................................. Set**
+
+**VHF Navigation Radio................................................. Set for Departure**
+
+**Audio Control Panel......................................................................... Set**
+
+**WEATHER RADAR......................................................................... Set**
+
+**Transponder Panel........................................................................ Set**
+	`If no Departure Clearance received, SET CODE 2000, MODE STBY`
+
+**STABILIZER TRIM override switch .................................. Guard closed**
+
+**------------------DO THE PREFLIGHT CHECKLIST---------------------**
+
+## Before Start Procedure 
+
+**CDU Preflight Procedure................................................. Perform**
+	`INIT REF - SELECT`
+	`	Insert actual ZFW`
+	`	Verify correct TOW`
+	`	Confirm Values and Execute`
+	`TAKE OFF PAGE 1/2 - SELECT`
+	`	Insert V1/VR/V2 Speeds as calculated on Performance Calculator `
+	`	Insert TOCG Value`
+	`	Set Take-Off Trim as calculated`
+			`Verify that the trim is within the green band`
+	`TAKE OFF PAGE 2/2`
+	`	Insert ACCEL HT value as per NPV OPS`
+	`	Insert EO ACCEL HT as per Performance calculations`
+	`	Insert THR REDUCTION as per NPV OPS`
+
+**MCP ................................................................................ Set**
+	`AUTOTHROTTLE ARM switch – ARM`
+	`IAS/MACH selector – Set V2`
+	`Arm LNAV as needed`
+	`Arm VNAV`
+	`Initial heading – Set`
+	`Initial altitude – Set - if not departure clearance obtained set 9900`
+
+**Taxi and Takeoff briefings ................................................................. Complete** 
+> [!info]
+> The pilot who will do the takeoff does the taxi and takeoff briefings.
+
+**Exterior doors ................................................................................. Verify closed**
+
+**Flight deck windows................................................................... Closed and locked**
+
+**Start clearance.......................................................................................... Obtain**
+
+**Fuel panel ................................................................................................ Set**
+	`If the center tank fuel quantity exceeds 453 kilograms:`
+	`LEFT and RIGHT CENTER FUEL PUMPS switches – ON`
+	`Verify that the LOW PRESSURE lights illuminate momentarily and then extinguish.`
+	
+	`If the LOW PRESSURE light stays illuminated turn off the CENTER FUEL PUMPS switch.`
+	`AFT and FORWARD FUEL PUMPS switches – ON`
+	`Verify that the LOW PRESSURE lights are extinguished.`
+
+**Hydraulic panel................................................................................................ Set**
+	`Electric HYDRAULIC PUMP switches – ON`
+	`Verify that the electric pump LOW PRESSURE lights are extinguished.`
+	`Verify that the brake pressure is 2,800 psi minimum.`
+	`Verify that the system A and B pressures are 2,800 psi minimum.`
+
+**ANTI COLLISION light switch ..................................................................................... ON**
+
+**------------------DO THE BEFORE START CHECKLIST---------------------**
+
+## Pushback or Towing Procedure
+
+The Engine Start procedure may be done during pushback or towing. Please remember to follow GSX (or similar) ground crew instructions.
+
+**Transponder .............................................................................................................. As needed**
+> [!info]
+> Some Airports or Networks (see VATSIM, for example) requires the user to select Transponder mode Charlie during ground operations
+
+**Parking Brakes......................................... Set or release the parking brake as directed by ground handling personnel.**
+
+## Engine Start Procedure
+
+**Normal starter duty cycle**:
+- Multiple consecutive start attempts are permitted. Each start attempt is limited to 2 minutes of starter usage.
+- A minimum of 10 seconds is needed between start attempts. 
+
+**Extended engine motorings**:
+- Starter usage is limited to 15 minutes for the first two extended engine motorings. A minimum of 2 minutes is needed between each attempt.
+- For the third and subsequent extended engine motorings, starter usage is limited to 5 minutes. A minimum of 10 minutes is needed between each attempt.
+
+**Normal engine start considerations**:
+- do not move an engine start lever to IDLE detent early or a hot start can occur
+- keep a hand on the engine start lever while monitoring RPM, EGT and fuel flow until stable
+- if fuel is shutoff accidentally (by closing the engine start lever) do not reopen the engine start lever in an attempt to restart the engine
+- failure of the ENGINE START switch to stay in GRD until the starter cutout RPM can cause a hot start. Do not re–engage the ENGINE START switch until engine RPM is below 20% N2.
+- If a fluid leak (other than a continuous stream) from any of the engine drains is discovered during the Exterior Inspection, the engine can be started. If during engine start, the ground crew reports a fluid leak from an engine drain, the engine start may be continued.
+- If the fluid leak continues after the engine is stable at idle, do one of the following:
+	- shut down the engine for maintenance action, or
+	- run the engine at idle thrust for up to 5 minutes.
+- If the fluid leak stops during this time, no maintenance action is needed, or shut down and restart the engine. 
+	Run the engine at idle thrust for up to 5 minutes. If the fluid leak stops during this time, no maintenance action is needed.
+-  For the first flight of the day, at airport elevations at or above 2,000 feet MSL, if the temperature is below 5°C/41°F, consider placing the Ignition select switch to BOTH before starting the engines. This may increase the likelihood of a successful engine start on the first attempt.
+
+> [!warning]
+> Do the ABORTED ENGINE START checklist for one or more of the following abort start conditions:
+• the N1 or N2 does not increase or increases very slowly after the EGT increases
+• there is no oil pressure indication by the time that the engine is stable at idle
+• the EGT does not increase by 15 seconds after the engine start lever is moved to IDLE detent
+• the EGT quickly nears or exceeds the start limit
+
+**Air conditioning PACK switches .................................................................................................................... OFF**
+
+**Start sequence................................................................................................................................. Announce**
+> [!Sequence]
+> Napulevola Boeing 737 Normal Procedures dictates that Engine Number 2 (Right Side) will be started first, and only after will be Engine Number 1 (Left Side), unless otherwise instructed by Supplementary Procedures [see Ground Cart Engine Start with APU not Available]
+
+**ENGINE START switch ............................................................................................................................... GRD**
+	`Verify that the N2 RPM increases.`
+
+*When N1 rotation is seen and N2 is at 25%, or (if 25% N2 is not possible), at maximum motoring and a minimum of 20% N2:*
+**Engine start lever ....................................IDLE detent**
+	`Monitor fuel flow and EGT indications.`
+	`At 56% N2, verify that the ENGINE START switch moves to OFF. `
+	*If not, move the ENGINE START switch to OFF.*
+	`Verify that the START VALVE OPEN alert extinguishes when the ENGINE START switch moves to OFF.`
+	`Call “STARTER CUTOUT”.`
+	Monitor N1, N2, EGT, fuel flow and oil pressure for normal indications while the engine accelerates to a stable idle.
+	
+> [!success]
+> After the engine is stable at idle, start the other engine.
+> 
+> Note: The engine is stable at idle when the EGT start limit redline is no longer shown.
+
+## Before Taxi Procedure
+After having completed the Engine Start Procedure **and** after ground clearance has been obtained from Pushback Personnel (GSX, for example), perform the Before Taxi Procedure as follow: 
+
+**GENERATOR 1 and 2 switches .................................... ON**
+
+**PROBE HEAT switches ................................................. ON**
+
+**WING ANTI–ICE switch .................................... As needed**
+	Select WING ANTI-ICE ON for takeoff every time there is the need of ENGINE ANTI-ICE ON for departure. There is NO need to consider WING ANTI ICE ON for take off calculations IF there will be no need to use them after lift-off.
+	
+**ENGINE ANTI–ICE switches ............................. As needed**
+	Select ENG ANTI-ICE ON **only** if Icing Conditions exists and after having calculated TAKEOFF PERFORMANCES with ENG A/I ON.
+
+**PACK switches .......................................................... AUTO**
+
+**ISOLATION VALVE switch ..................................... AUTO**
+
+**APU BLEED air switch................................................ OFF**
+
+**APU switch .................................................................... OFF**
+
+**ENGINE START switches ........................................ CONT**
+
+**Engine start levers ........................................... IDLE detent**
+
+**Flap lever.................................................... Set takeoff flaps**
+	Verify that the LE FLAPS EXT green light is illuminated.
+
+**Flight controls ............................................................ Check**
+	Perform slow and deliberate inputs, one direction at a time. 
+	Once Flight Controls are checked, blank Lower Display Unit.
+
+**Transponder..........................................................As needed**
+
+**Recall ......................................................................... Check**
+	Verify that all system annunciator panel lights illuminate and then extinguish.
+
+**------------------DO THE BEFORE TAXI CHECKLIST---------------------**
+
+## Before Takeoff Procedure
+Once cleared for taxi, and once the taxi instructions are acknowledged  is recommended to use a thrust setting that is usually required for normal taxi operations. Napulevola suggests on our Boeing 737 NG/MAX to select max 40% N1 settings for taxi. 
+
+**TURN OFF LIGHTS.............................................................. ON**
+
+**TAXI LIGHT.................................................................................. ON**
+	`Verify that the area is clear on the Left, Front and Right Side of the Airplane before starting taxi.`
+
+**PARKING BRAKE................................................................................... Released**
+
+**CONFIG.............................................................................................. Check**
+	`Momentarely advance the Thrust Levers more than 75%.` 
+	`Verify that the TAKEOFF WARNING does not sound.`
+		`If it does:`
+		`- PARKING BRAKE..................... Select ON`
+		`- Review Airplane Takeoff Configuration (Flaps, Trim, Speedbrake Lever)`
+		`- PARKING BRAKE....................... Released`
+		`- CONFIG.................... Perform the check again.`
+
+> [!info]
+> Taxi Procedure: to permit a correct taxi procedure remember to always perform smooth turns, avoiding abruptly Nose Tiller inputs. 
+> 
+> TAXI SPEEDS Restrictions are as follow:
+> 	- Contaminated Apron and Taxiways -> 5 Knts
+> 	- More than 45 degrees Turns -> 10 Knts
+> 	- Apron Area -> 15 Knts
+> 	- Straight Line -> 30 Knts
+> 	- Backtrack on the RWY -> 50 Knts.
+
+> [!attention]
+> Every time **TAXI INSTRUCTIONS are NOT clear** or if in doubt: **STOP!** 
+> Set Parking Brake and ask  for clarifications. 
+
+Once Cabin is READY, verify any changes that might affect your Departure Safety. If no briefing changes are to be expected or have been performed already:
+
+**------------------DO THE BEFORE TAKEOFF CHECKLIST---------------------**
+
+## Takeoff Procedure 
+During this procedures Pilots are required to take in consideration correct timing on Online Networks. Do not accept a "line Up and Cleared for TakeOff" clearance during a busy online event if NOT ready for an immediate departure. 
+Be mindful about other collegues and online simmers.
+Ideally, Pilots are required to start their Takeoff Procedure without any delay as soon as they start the Line Up phase.
+
+> [!caution]
+> Before entering the departure runway, verify that the runway and runway entry point are correct. 
+> **Pay extra care when in LVO, maximise use of RAAS System**
+
+Approaching the holding point verify the correct position:
+
+> [!sop-callout]
+> AT HOLDING POINT -> **RUNWAY XX INTERSECTION XX IDENTIFY**
+> {Example: Cagliari, holding point RWY 32/F. Crew will call "Runway 32, Intersection Foxtrot Indentify}
+
+Once Cleared to enter the active Runway
+
+**STROBE LIGHT Switch................................................................................. ON**
+	Some airplane might have a different switch, in that case move **POSITION LIGHT Switch to position STROBE & STEADY**
+
+**TRANSPONDER....................................................................................................... TA/RA**
+
+Align the Airplane with the Runway and verify that the airplane heading agrees with the assigned runway heading.
+> [!sop-callout]
+> Once aligned with RWY, call -> **Runway XX, Track Correct**
+> {Example: Cagliari, Runway 32. Crew will call "Runway 32, track correct" after having checked that RWY Track and Airplane Heading are aligned within reasonable error}
+
+When Cleared for Take Off
+**LANDING LIGHTS.............................................................................................................. ON**
+	Select ON LED Fixed Landing Light if LED System installed, otherwhise select ALL LANDING LIGHTS ON (Retractable and Fixed)
+
+**TakeOff Procedure.......................................................................................................................... Perform**
+	Advance Thrust Levers to 40% N1
+	Allow the Engines to **Stabilize**
+	**Push the TOGA SWITCH**
+	*Before reaching 60 Knots, verify correct Takeoff Thrust has been set. If not, manually set correct N1 value **before** 60 knots or perform a low speed reject.*
+> [!sop-callout]
+> When Takeoff Thrust is set, CALL -> **TAKEOFF THRUST SET**
+> 
+> READ and CALL FMA -> **N1 | HDG SEL | TOGA**
+
+	Monitor airspeed and maintain light forward pressure on the control column.
+	Verify 80 Knots. 
+> [!sop-callout]
+> There are 2 models of Airplanes within Napulevola fleet. 
+> 	- If 80 knots is automatically called by PM, reply with -> **CHECK**.
+> 	- if 80 knots is **NOT** automatically called by PM:
+> 		- Verify 80 knots, Call "**80 Knots**"
+> 		- Reply "**CHECK**"
+
+	Verify V1.
+> [!sop-callout]
+> Verify the automatic V1 callout, or CALL -> "**V1**"
+
+	Verify VR.
+> [!sop-callout]
+>At VR CALL -> "**ROTATE**" 
+
+	At VR, rotate toward 15° pitch attitude.
+		Slow rotation of about 2/2.5 degrees per second is reccommanded
+	After liftoff, follow F/D commands, and establish a positive rate of climb
+> [!sop-callout]
+> Verify Correct/Appropriate Pitch Attitude, Altimeters increasing and positive rate of V/S
+> CALL -> "**POSITIVE RATE**"
+
+	**LANDING GEAR.............................................................................. Select UP**
+
+> [!caution]
+> At 400ft or above, verify LNAV mode is engaged and call appropriate FMA readings. 
+> If required, select ROLL MODE as appropriate.
+
+	At thrust reduction height (800ft in accordance with Napulevola SOP), verify that climb thrust is set.
+
+	Verify acceleration at the acceleration height.
+
+> [!sop-callout]
+> Call -> “**FLAPS ___**” according to the flap retraction schedule.
+
+	Set the FLAP Lever as required.
+	Engage the autopilot when above the minimum altitude for autopilot engagement.
+> [!caution]
+>Do NOT engage AP during turns to avoid excessive bank. Engage AP **ONLY** when **WINGS LEVEL**. Be ready to manually fly the aircraft first if a turn is required before minimum altitude for autopilot engagement
+>
+
+
+When FLAPS fully rectracts
+> [!sop-callout]
+> CALL -> FLAPS UP
+
+At FLAPS UP callout
+
+**------------------DO THE AFTER TAKEOFF CHECKLIST---------------------**
+
+
+![[Pasted image 20250516004556.png]]
+
+## Climb and Cruise Procedure
+Complete the After Takeoff Checklist before starting the Climb and Cruise Procedure.
